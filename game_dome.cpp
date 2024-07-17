@@ -872,7 +872,7 @@ public:
                             }
 
                             obj2 = obj1;
-                            if (obj2.move_cursor(1) == "E")
+                            if (obj2.move_cursor(2) == "E")
                             {
                                 flag = false;
                                 break;
